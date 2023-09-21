@@ -1,0 +1,18 @@
+{
+  "name": "css_tailwind_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "postcss-apply": "^0.12.0",
+    "tailwindcss": "^3.3.3"
+  }
+}
